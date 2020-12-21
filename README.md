@@ -8,6 +8,8 @@ The goal is to use this repository as our actual issue tracking system, being as
 
 If there should be any issues involving the private data of any of our customers or potential security breaches, we will keep track of the work elsewhere, publishing eventual post mortem summaries here. Let's hope it's going to be a rare occasion.
 
+See our [Roadmap](https://github.com/moonkaspace/launchpad/projects/1) for current goals and progress being made.
+
 ## You can chime in!
 
 Do you have a problem with our platform? Is there anything you think we should be building? Please do create an issue and let's discuss it thoroughly. We can't promise we'll build it, but we can promise we will consider every suggestion.
