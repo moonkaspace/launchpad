@@ -20,6 +20,7 @@ Thank you if you took your time to share your thoughts!
 
 - On the backend we use _Ruby on Rails_, which we still consider to be one of the most beautiful frameworks to work with. We store most of our data in _PostgreSQL_, while session-related data is stored in _Redis_. 
 - On the frontend the app is built on top of _Nuxt_, an SSR framework for _Vue_.
+- For more details regarding our stack, see our [Stackshare](https://stackshare.io/moonka-space/tools#stack)
 
 **Moonka.space** is hosted on Heroku.
 
