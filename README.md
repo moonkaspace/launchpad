@@ -18,8 +18,8 @@ Thank you if you took your time to share your thoughts!
 
 **Moonka.space** is built across two private repositories, one for the backend / API and one for the frontend.
 
-- On the backend we use Ruby on Rails, which we still consider to be one of the most beautiful frameworks to work with. We store most of our data in PostgreSQL, while session-related data is stored in Redis. 
-- On the frontend the app is built on top of Nuxt, an SSR framework for Vue.
+- On the backend we use _Ruby on Rails_, which we still consider to be one of the most beautiful frameworks to work with. We store most of our data in _PostgreSQL_, while session-related data is stored in _Redis_. 
+- On the frontend the app is built on top of _Nuxt_, an SSR framework for _Vue_.
 
 **Moonka.space** is hosted on Heroku.
 
