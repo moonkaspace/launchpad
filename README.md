@@ -12,7 +12,7 @@ See our [Tech Roadmap](https://github.com/moonkaspace/launchpad/projects/1) for 
 
 ## You can chime in!
 
-Do you have a problem with our platform? Is there anything you think we should be building? Please do create an issue and let's discuss it thoroughly. We can't promise we'll build it, but we can promise we will consider every suggestion.
+Do you have an issue with our platform? Is there anything you think we should be building? Please do create an issue and let's discuss it thoroughly. We can't promise we'll build it, but we can promise we will consider every suggestion.
 
 Thank you if you took your time to share your thoughts!
 
